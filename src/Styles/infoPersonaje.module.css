@@ -1,0 +1,29 @@
+.Container{
+    display:flex;
+    flex-direction: row;
+    margin-top: 3rem;
+    justify-content:center
+}
+.img{
+    
+}
+.Image{
+    width: 230px;
+    height: 300px;
+    margin-right: 30px;
+}
+.containerText{
+    width: 400px;
+    margin-left: 30px;
+    color: white
+}
+.Description{
+    font-size: 14px;
+}
+.btn{
+    padding: 10px 50px
+}
+.ContainerSup{
+    display: flex;
+    flex-direction: column;
+}

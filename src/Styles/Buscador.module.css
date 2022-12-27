@@ -1,0 +1,36 @@
+.containerForm{
+    display: flex;
+    justify-content: center;
+}
+.Input{
+    width: 400px;
+    height: 40px;
+    border: none;
+}
+.btn{
+    height: 42px;
+    border: none;
+    cursor: pointer;
+    border-left: 1px transparent;
+    border-radius: 0 4px 4px 0;
+}
+    
+.Container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color:red;
+    padding: 0 4rem 2rem 4rem
+}
+.logoS{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 50px 0;
+}
+.logo{
+    width: 150px;
+    height: 45px;
+}
+
+    
+    

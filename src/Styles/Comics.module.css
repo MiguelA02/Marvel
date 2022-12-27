@@ -1,0 +1,14 @@
+.Container{
+    margin-bottom: 5px
+}
+.image{
+    width: 100px;
+    height: 150px
+}
+.image:hover{
+    transition: all 0.6s ease;
+    filter: brightness(45%);
+}
+p{
+    font-size: 5px;
+}
